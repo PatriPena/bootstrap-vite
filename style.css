@@ -37,7 +37,7 @@
  --main--font: "Flamenco", Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
  --line-height: 1.5;
  --font-weight: 400;
- /*
+ 
 
 a {
   font-weight: 500;
@@ -126,5 +126,4 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
-}*/
 }
